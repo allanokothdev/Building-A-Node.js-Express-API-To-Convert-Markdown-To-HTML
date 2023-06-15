@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/allanokothdev/Building-A-Node.js-Express-API-To-Convert-Markdown-To-HTML/issues"
   },
-  "homepage": "https://github.com/allanokothdev/Building-A-Node.js-Express-API-To-Convert-Markdown-To-HTML#readme"
+  "homepage": "https://github.com/allanokothdev/Building-A-Node.js-Express-API-To-Convert-Markdown-To-HTML#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jwt-simple": "^0.5.6",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.2",
+    "showdown": "^2.1.0"
+  }
 }
